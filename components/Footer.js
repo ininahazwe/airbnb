@@ -34,6 +34,8 @@ function Footer(props) {
                 <p>How Airbnb works</p>
                 <p>How Airbnb works</p>
                 <p>How Airbnb works</p>
+                <p>How Airbnb works</p>
+                <p>How Airbnb works</p>
             </div>
         </div>
     );
